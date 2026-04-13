@@ -1,0 +1,5 @@
+agents/.venv/
+.adk/
+.env
+__pycache__/
+*.pyc
